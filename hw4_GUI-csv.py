@@ -20,7 +20,7 @@ def readcsv():
 
 GUI = Tk()
 GUI.title('โปรแกรมบันทึกข้อมูล')
-GUI.geometry('1000x600')
+GUI.geometry('1000x450')
 
 L1 = Label(GUI, text='โปรแกรมบันทึกความรู้', font=('Angsana New', 30), fg='green')
 L1.place(x=30, y=20)
